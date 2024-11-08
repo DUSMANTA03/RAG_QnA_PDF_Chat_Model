@@ -4,3 +4,7 @@ It divides the whole text document in to smaller chunks then vector embedding is
 When the user asks query the the query is transformed in to a numeric form and after semantic search the answer is found from that vector db using llm model"GEMINI-1.5-latest" of google response is generated.
 This task is performed free of cost unlike OpenAI embed models here you do not have to pay for tokens,it is completely FREE.
 ![rag_indexing-8160f90a90a33253d0154659cf7d453f](https://github.com/DUSMANTA03/RAG_Q-A_PDF_Chat_Model/assets/112675892/07d1e06a-ba6e-43d5-a014-ee8b96a174fc)
+
+
+https://github.com/user-attachments/assets/839c53e1-93f6-4608-b02e-949b983a26f8
+
