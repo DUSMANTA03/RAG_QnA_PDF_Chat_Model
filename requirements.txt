@@ -1,0 +1,13 @@
+langchain
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+streamlit-extras
+altair<5
+nest-asyncio
+langchain-google-genai
+langchain-cohere
+langchain-community
+torch>=2.0.0
+transformers>=4.30.0
